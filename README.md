@@ -30,8 +30,9 @@
    <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js">
   <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=hotpink"/>
-   <img src ="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb&logoColor=234ea94b"/>
+<img src="https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium">
+<!--   <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=hotpink"/> -->
+  <img src ="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb&logoColor=234ea94b"/>
   <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker">
 </div>
 <br>
